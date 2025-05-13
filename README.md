@@ -1,54 +1,42 @@
-# React + TypeScript + Vite
+# Storia Romana - Web App di Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una web app interattiva per lo studio della storia romana, con particolare focus sul periodo da Tito a Domiziano.
 
-Currently, two official plugins are available:
+## 🌟 Caratteristiche
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📚 Contenuti storici ben organizzati
+- 📱 Design responsive per tutti i dispositivi
+- ⏳ Vista timeline degli eventi
 
-## Expanding the ESLint configuration
+## 🔗 Link
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Visita l'applicazione: [Storia Romana Web App](https://mcararrodev.github.io/storia-web/)
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## 🎨 Palette di Colori
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+- Primario: `#2b2d42`
+- Secondario: `#8d99ae`
+- Sfondo: `#edf2f4`
+- Accento 1: `#ef233c`
+- Accento 2: `#d90429`
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 🛠️ Tecnologie
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+- React
+- TypeScript
+- Vite
+- Material-UI
+- Framer Motion
+- React Router
+
+## 📁 Struttura del Progetto
+
+src/
+  ├── components/      # Componenti React
+  ├── config/         # Configurazioni (tema, colori)
+  ├── data/          # Dati storici
+  └── types/         # Definizioni TypeScript
+
+## 👥 Contributi
+
+Sentiti libero di aprire issues o pull requests per migliorare l'applicazione!
