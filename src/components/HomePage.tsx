@@ -1,5 +1,4 @@
 import { Box, Typography, Card, CardContent, Container, Chip } from '@mui/material';
-import Grid from '@mui/material/Grid';
 import { motion } from 'framer-motion';
 import { historicalData } from '../data/historicalData';
 import { colors } from '../config/colors';
