@@ -10,7 +10,7 @@ Una web app interattiva per lo studio della storia romana, con particolare focus
 
 ## 🔗 Link
 
-Visita l'applicazione: [Storia Romana Web App](https://mcararrodev.github.io/storia-web/)
+Visita l'applicazione: [Storia Romana Web App](https://mcarrarodev.github.io/storia-web/)
 
 ## 🎨 Palette di Colori
 
@@ -28,14 +28,6 @@ Visita l'applicazione: [Storia Romana Web App](https://mcararrodev.github.io/sto
 - Material-UI
 - Framer Motion
 - React Router
-
-## 📁 Struttura del Progetto
-
-src/
-  ├── components/      # Componenti React
-  ├── config/         # Configurazioni (tema, colori)
-  ├── data/          # Dati storici
-  └── types/         # Definizioni TypeScript
 
 ## 👥 Contributi
 
