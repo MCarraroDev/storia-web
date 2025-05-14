@@ -362,8 +362,8 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
     ]
   },
   {
-    id: 'crisi-severi',
-    title: 'La Crisi e i Severi',
+    id: 'severi',
+    title: 'Dinastia dei Severi',
     startYear: 192,
     endYear: 235,
     events: [
@@ -387,7 +387,7 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
         id: 'settimio-severo',
         year: 193,
         title: 'Ascesa di Settimio Severo',
-        description: 'Inizia il regno di Settimio Severo, nato in Africa e con una brillante carriera militare alle spalle. Con lui inizia la dinastia dei Severi.',
+        description: 'Inizia il regno di Settimio Severo, nato in Africa. Con una brillante carriera militare alle spalle, darà inizio alla dinastia dei Severi.',
         category: 'Imperatori',
         importance: 3
       },
@@ -416,44 +416,36 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
         importance: 2
       },
       {
-        id: 'inizio-crisi',
-        year: 235,
-        title: 'Fine dei Severi',
-        description: 'Con la morte di Alessandro Severo termina la dinastia dei Severi e inizia la grande Crisi del III secolo.',
-        category: 'Crisi',
-        importance: 3
-      }
-    ]
-  },
-  {
-    id: 'severi',
-    title: 'Dinastia dei Severi',
-    startYear: 193,
-    endYear: 235,
-    events: [
-      {
-        id: 'settimio-severo',
-        year: 193,
-        title: 'Ascesa di Settimio Severo',
-        description: 'Dopo il caos seguito alla morte di Commodo, Settimio Severo prende il potere. Favorisce le province a discapito del senato e aumenta i benefici per i soldati.',
+        id: 'morte-settimio',
+        year: 211,
+        title: 'Morte di Settimio Severo',
+        description: 'Muore Settimio Severo, lasciando l\'impero ai figli Caracalla e Geta.',
         category: 'Imperatori',
-        importance: 1
+        importance: 2
       },
       {
-        id: 'caracalla',
+        id: 'caracalla-regno',
         year: 211,
         title: 'Regno di Caracalla',
-        description: 'Succede al padre Settimio Severo, uccide il fratello Geta. Emana la Constitutio Antoniniana che estende la cittadinanza a tutti gli abitanti dell\'impero.',
+        description: 'Caracalla uccide il fratello Geta e governa da solo. Emana la Constitutio Antoniniana che estende la cittadinanza a tutti gli abitanti dell\'impero.',
         category: 'Imperatori',
-        importance: 1
+        importance: 3
       },
       {
         id: 'alessandro-severo',
         year: 222,
         title: 'Regno di Alessandro Severo',
-        description: 'Abolisce i culti orientali e ripristina il prestigio dell\'aristocrazia senatoria. Viene ucciso in una congiura delle legioni nel 235.',
+        description: 'Abolisce i culti orientali e ripristina il prestigio dell\'aristocrazia senatoria. Sarà l\'ultimo dei Severi.',
         category: 'Imperatori',
         importance: 2
+      },
+      {
+        id: 'fine-severi',
+        year: 235,
+        title: 'Fine dei Severi',
+        description: 'Alessandro Severo viene ucciso in una congiura delle legioni. Termina la dinastia dei Severi e inizia la grande Crisi del III secolo.',
+        category: 'Crisi',
+        importance: 3
       }
     ]
   },
