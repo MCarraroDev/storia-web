@@ -4,7 +4,7 @@ export interface HistoricalEvent {
   title: string;
   description: string;
   category: string;
-  importance: 1 | 2 | 3; // 1 = molto importante, 3 = meno importante
+  importance: 1 | 2 | 3; // 1 = più importante (3 puntini), 2 = medio importante (2 puntini), 3 = meno importante (1 puntino)
 }
 
 export interface TimelineSection {

@@ -43,10 +43,14 @@ const HomePage = () => {
                   transition={{ duration: 0.5, delay: 0.1 }}
                   sx={{
                     height: '100%',
-                    backgroundColor: `${colors.background}`,
-                    border: `1px solid ${colors.secondary}40`,
+                    backgroundColor: colors.paper,
+                    border: `2px solid ${colors.secondary}50`,
+                    borderRadius: 3.5,
+                    transition: 'all 0.3s ease-in-out',
                     '&:hover': {
-                      boxShadow: `0 4px 20px ${colors.secondary}30`,
+                      transform: 'translateY(-4px)',
+                      boxShadow: `0 6px 20px ${colors.primary}15`,
+                      borderColor: `${colors.secondary}40`,
                     },
                   }}
                 >

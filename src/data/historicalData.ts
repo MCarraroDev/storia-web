@@ -11,9 +11,9 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
         id: 'tito-regno',
         year: 79,
         title: 'Inizio del Regno di Tito',
-        description: 'Tito succede al padre Vespasiano. Durante il suo breve regno dovrà affrontare diverse calamità che metteranno alla prova la sua leadership.',
+        description: 'Tito succede al padre Vespasiano. Durante il suo breve regno risponderà efficacemente a diverse calamità che metteranno alla prova la sua leadership.',
         category: 'Imperatori',
-        importance: 3
+        importance: 1
       },
       {
         id: 'vesuvio',
@@ -50,40 +50,32 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
       {
         id: 'domiziano-inizio',
         year: 81,
-        title: 'Inizio regno Domiziano',
-        description: 'Domiziano succede a Tito. Si fa attribuire i titoli di Austero (per la sua severità e background militare) ed Eccentrico (per la sua passione per l\'auto-celebrazione attraverso statue).',
+        title: 'Inizio del Regno di Domiziano',
+        description: 'Domiziano succede a Tito. Si fa attribuire i titoli di Austero, per la sua severità e decisione derivante dall\'esperienza militare, e di Eccentrico, per la sua passione per le statue.',
         category: 'Imperatori',
         importance: 3
       },
       {
-        id: 'domiziano-riforme',
+        id: 'domiziano-leggi',
         year: 82,
         title: 'Riforme di Domiziano',
-        description: 'Ripristina le leggi morali di Augusto e perseguita i cristiani che non rispettano il culto imperiale, arrivando a uccidere il nobile Flavio Clemente per la sua conversione al cristianesimo.',
-        category: 'Leggi',
+        description: 'Domiziano ripristina le leggi morali di Augusto e perseguita i cristiani, arrivando a uccidere il nobile Flavio Clemente accusato di cristianesimo. Avvia anche la civilizzazione permanente delle regioni reno-danubiane.',
+        category: 'Leggi e Riforme',
         importance: 2
       },
       {
-        id: 'civilizzazione-reno',
+        id: 'agri-decumates',
         year: 83,
-        title: 'Civilizzazione Reno-Danubiana',
-        description: 'Avvia un importante progetto di civilizzazione permanente delle regioni reno-danubiane. Costruisce città, istituisce gli Agri decumates (terre assegnate ai soldati) e inizia la costruzione di una linea difensiva in Britannia.',
-        category: 'Territori',
-        importance: 3
-      },
-      {
-        id: 'crisi-domiziano',
-        year: 95,
-        title: 'Crisi del Regno',
-        description: 'Il senato viene marginalizzato e perde la funzione legislativa. Domiziano, temendo cospirazioni, abusa della legge di lesa maestà e limita i suoi collaboratori.',
-        category: 'Politica',
+        title: 'Riforma degli Agri Decumates',
+        description: 'Per risolvere il problema della fuga dalle legioni, Domiziano divide l\'ager publicus in appezzamenti assegnati ai soldati, che devono pagare allo stato la decima parte del raccolto.',
+        category: 'Leggi e Riforme',
         importance: 2
       },
       {
         id: 'morte-domiziano',
         year: 96,
         title: 'Assassinio di Domiziano',
-        description: 'Domiziano viene assassinato da una congiura alla quale si sospetta abbia partecipato anche sua moglie, sostenuta da familiari e dal senato.',
+        description: 'Domiziano viene assassinato da una congiura, alla quale si sospetta abbia aderito anche la moglie sostenuta dai familiari e dal senato. La sua morte è legata all\'abuso della legge di lesa maestà e alla marginalizzazione del senato.',
         category: 'Imperatori',
         importance: 3
       }
@@ -96,74 +88,50 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
     endYear: 117,
     events: [
       {
-        id: 'nerva-elezione',
+        id: 'nerva-impero',
         year: 96,
-        title: 'Elezione di Nerva',
-        description: 'Il senato elegge Nerva, un anziano senatore, dando inizio a un periodo di transizione. È un tentativo del senato di riacquisire il potere perduto sotto Domiziano.',
+        title: 'Impero di Transizione di Nerva',
+        description: 'Il senato elegge Nerva, un anziano senatore, dando inizio all\'impero d\'adozione. Nerva adotta Traiano come suo successore, favorito dai soldati per i suoi meriti.',
         category: 'Imperatori',
-        importance: 2
-      },
-      {
-        id: 'impero-adozione',
-        year: 97,
-        title: 'Istituzione dell\'Impero d\'Adozione',
-        description: 'Nerva introduce l\'impero d\'adozione, scegliendo Traiano come successore per i suoi meriti e il favore dei soldati. L\'adozione richiede l\'approvazione del senato e si basa sui meriti personali.',
-        category: 'Politica',
         importance: 3
       },
       {
         id: 'traiano-inizio',
         year: 98,
-        title: 'Ascesa di Traiano',
-        description: 'Traiano diventa il primo imperatore provinciale, provenendo dalla penisola iberica. Inizia un periodo di grande espansione e riforme.',
+        title: 'Inizio del Regno di Traiano',
+        description: 'Traiano diventa il primo imperatore provinciale, provenendo dalla penisola iberica. Avvia importanti riforme economiche tra cui il risanamento dell\'erario e la riduzione dell\'imposta sull\'eredità.',
         category: 'Imperatori',
         importance: 3
-      },
-      {
-        id: 'traiano-riforme',
-        year: 100,
-        title: 'Riforme Economiche',
-        description: 'Risana le finanze dell\'erario, bonifica le paludi, costruisce il foro, riduce l\'imposta sull\'eredità e concede prestiti agevolati ai piccoli proprietari italici.',
-        category: 'Economia',
-        importance: 2
       },
       {
         id: 'conquista-dacia',
         year: 106,
         title: 'Conquista della Dacia',
-        description: 'La Dacia viene conquistata e trasformata in provincia romana, parte di una più ampia politica espansionistica volta a risanare le finanze dello stato.',
+        description: 'Traiano conquista la Dacia, che diventa provincia romana, nell\'ambito della sua politica espansionistica volta a risanare le finanze dello stato.',
         category: 'Conquiste',
         importance: 3
       },
       {
         id: 'arabia-petrea',
         year: 106,
-        title: 'Annessione dell\'Arabia',
-        description: 'Annette la penisola arabica creando la provincia dell\'Arabia Petrea, strategicamente importante per gli scambi commerciali con l\'Oriente.',
+        title: 'Annessione dell\'Arabia Petrea',
+        description: 'Traiano annette la penisola arabica, creando la provincia dell\'Arabia Petrea, importante per gli scambi commerciali con l\'oriente.',
         category: 'Conquiste',
         importance: 2
       },
       {
         id: 'guerra-parti',
         year: 114,
-        title: 'Guerra Contro i Parti',
-        description: 'Traiano ottiene le province dell\'Armenia e della Mesopotamia nella guerra contro i Parti, portando l\'impero alla sua massima espansione.',
+        title: 'Guerra contro i Parti',
+        description: 'Traiano ottiene la provincia dell\'Armenia e della Mesopotamia nella guerra contro i Parti, portando l\'impero alla sua massima espansione.',
         category: 'Conquiste',
         importance: 3
-      },
-      {
-        id: 'biblioteca-ulpia',
-        year: 112,
-        title: 'Biblioteca Ulpia',
-        description: 'Viene aperta una gigantesca biblioteca, manifestazione dell\'interesse culturale del periodo traianeo.',
-        category: 'Cultura',
-        importance: 1
       },
       {
         id: 'morte-traiano',
         year: 117,
         title: 'Morte di Traiano',
-        description: 'Traiano muore improvvisamente in Cilicia, dopo aver adottato Adriano, comandante delle legioni orientali, come suo successore.',
+        description: 'Traiano muore improvvisamente in Cilicia, dopo aver adottato il comandante delle legioni orientali, Adriano, come suo successore.',
         category: 'Imperatori',
         importance: 3
       }
@@ -178,40 +146,32 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
       {
         id: 'adriano-inizio',
         year: 117,
-        title: 'Inizio Regno di Adriano',
-        description: 'Adriano, proveniente dall\'aristocrazia spagnola e amante della cultura greca, inizia il suo regno. È noto per i suoi numerosi viaggi culturali e la riproduzione di bellezze d\'oriente nella Villa Adriana.',
+        title: 'Inizio del Regno di Adriano',
+        description: 'Adriano, proveniente dall\'aristocrazia spagnola e amante della cultura greca, inizia il suo regno. Si distingue per i suoi numerosi viaggi culturali e la costruzione di Villa Adriana.',
         category: 'Imperatori',
         importance: 3
       },
       {
-        id: 'riforme-amministrative',
+        id: 'riforme-adriano',
         year: 118,
-        title: 'Riforme Amministrative',
-        description: 'Stabilisce gradi e compensi per gli ufficiali pubblici, fa redigere leggi valide per tutti, e rafforza il consiglio del principe riducendo i consiglieri.',
-        category: 'Amministrazione',
-        importance: 2
-      },
-      {
-        id: 'politica-pace',
-        year: 120,
-        title: 'Politica di Pace',
-        description: 'Abbandona la politica espansionistica di Traiano, introducendo il reclutamento militare regionale e istituendo i Numeri, unità militari ausiliarie formate da soldati germani.',
-        category: 'Politica',
+        title: 'Riforme Amministrative di Adriano',
+        description: 'Adriano migliora l\'amministrazione stabilendo gradi e compensi per gli ufficiali pubblici, fa redigere leggi valide per tutti e rafforza il consiglio del principe.',
+        category: 'Leggi e Riforme',
         importance: 2
       },
       {
         id: 'vallo-adriano',
         year: 122,
-        title: 'Costruzione del Vallo',
-        description: 'Inizia la costruzione del Vallo Adriano, una muraglia difensiva per proteggere la provincia della Britannia.',
-        category: 'Difesa',
+        title: 'Costruzione del Vallo Adriano',
+        description: 'Adriano costruisce una muraglia per proteggere la provincia della Britannia, abbandonando la politica espansionistica di Traiano in favore di una strategia difensiva.',
+        category: 'Architettura Militare',
         importance: 3
       },
       {
         id: 'rivolta-giudea',
         year: 132,
         title: 'Grande Rivolta Giudaica',
-        description: 'Scoppia una grave insurrezione in Giudea, sedata da Adriano con un massacro. Gerusalemme viene trasformata in colonia romana.',
+        description: 'Scoppia una grande insurrezione in Giudea, sedata da Adriano con un grande spargimento di sangue. In seguito, Adriano trasforma Gerusalemme in una colonia romana.',
         category: 'Rivolte',
         importance: 3
       },
@@ -219,32 +179,16 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
         id: 'morte-adriano',
         year: 138,
         title: 'Morte di Adriano',
-        description: 'Adriano muore dopo un regno caratterizzato da pace, cultura e riforme amministrative.',
-        category: 'Imperatori',
-        importance: 2
-      },
-      {
-        id: 'antonino-inizio',
-        year: 138,
-        title: 'Inizio Regno di Antonino Pio',
-        description: 'Antonino, detto il Pio, diventa imperatore. Il suo regno sarà caratterizzato da una politica difensiva e importanti riforme giuridiche.',
+        description: 'Adriano muore dopo aver consolidato i confini dell\'impero e riformato l\'amministrazione.',
         category: 'Imperatori',
         importance: 3
       },
       {
-        id: 'riforme-schiavitu',
-        year: 140,
-        title: 'Riforme sulla Schiavitù',
-        description: 'Introduce maggiori diritti per gli schiavi, stabilendo che la violenza contro di loro deve essere motivata.',
-        category: 'Leggi',
-        importance: 2
-      },
-      {
-        id: 'riforma-giudiziaria',
-        year: 150,
-        title: 'Riforma Giudiziaria',
-        description: 'Modifica la legge romana introducendo la tutela del sospettato e il beneficio del dubbio: il sospettato è ritenuto colpevole solo dopo la sentenza.',
-        category: 'Leggi',
+        id: 'antonino-inizio',
+        year: 138,
+        title: 'Inizio del Regno di Antonino Pio',
+        description: 'Antonino Pio succede ad Adriano. Si distingue per una politica difensiva con la costruzione di due valli e l\'introduzione di maggiori diritti per gli schiavi.',
+        category: 'Imperatori',
         importance: 3
       }
     ]
@@ -256,106 +200,66 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
     endYear: 192,
     events: [
       {
-        id: 'marco-aurelio',
+        id: 'marco-aurelio-inizio',
         year: 161,
-        title: 'Inizio regno di Marco Aurelio',
-        description: 'Filosofo stoico, cerca di applicare le regole dello stoicismo al governo. Affronta le prime grandi crisi dell\'impero.',
+        title: 'Inizio del Regno di Marco Aurelio',
+        description: 'Marco Aurelio, filosofo stoico, inizia il suo regno insieme al fratello Lucio Vero. Deve affrontare i primi sintomi della crisi dell\'impero.',
         category: 'Imperatori',
-        importance: 1
-      },
-      {
-        id: 'invasioni-barbariche',
-        year: 166,
-        title: 'Invasioni dei Quadi e Marcomanni',
-        description: 'I Quadi e i Marcomanni oltrepassano il Danubio e arrivano nel nord-est dell\'Italia, mentre scoppia un\'epidemia di peste.',
-        category: 'Guerre',
-        importance: 1
-      },
-      {
-        id: 'commodo-inizio',
-        year: 180,
-        title: 'Inizio regno di Commodo',
-        description: 'Conclude frettolosamente la pace con Quadi e Marcomanni. Si dedica al culto della propria persona, provocando l\'allontanamento del senato.',
-        category: 'Imperatori',
-        importance: 2
-      },
-      {
-        id: 'lucio-vero',
-        year: 161,
-        title: 'Co-reggenza con Lucio Vero',
-        description: 'Marco Aurelio governa inizialmente con pari poteri insieme al fratello Lucio Vero, che morirà nel 169.',
-        category: 'Imperatori',
-        importance: 2
+        importance: 3
       },
       {
         id: 'invasione-parti',
         year: 161,
         title: 'Invasione dei Parti',
-        description: 'I Parti invadono l\'Armenia e la Siria, segnando l\'inizio di un periodo di crisi militare.',
-        category: 'Guerra',
+        description: 'I Parti invadono l\'Armenia e la Siria, segnando l\'inizio di un periodo di instabilità ai confini dell\'impero.',
+        category: 'Guerre',
         importance: 2
       },
       {
-        id: 'marco-filosofo',
-        year: 165,
-        title: 'Il Filosofo Imperatore',
-        description: 'Marco Aurelio, educato allo stoicismo, si distingue come filosofo e scrittore, cercando di applicare i principi stoici al governo dell\'impero.',
-        category: 'Cultura',
-        importance: 2
-      },
-      {
-        id: 'invasione-germani',
+        id: 'invasione-quadi',
         year: 166,
-        title: 'Invasione Germanica',
-        description: 'I Quadi e i Marcomanni oltrepassano il Danubio e arrivano nel nord-est dell\'Italia, mentre un\'epidemia di peste dalla Mesopotamia raggiunge Roma.',
-        category: 'Crisi',
+        title: 'Invasione dei Quadi e Marcomanni',
+        description: 'I Quadi e i Marcomanni oltrepassano il Danubio e arrivano nel nord-est dell\'Italia. Nello stesso periodo, un\'epidemia di peste dalla Mesopotamia raggiunge Roma.',
+        category: 'Guerre',
         importance: 3
       },
       {
-        id: 'arruolamenti',
-        year: 170,
-        title: 'Arruolamenti Straordinari',
-        description: 'Durante 19 anni di spedizioni militari, vengono effettuati arruolamenti straordinari, inclusi schiavi germanici. Marco Aurelio usa le proprie ricchezze per finanziare lo stato.',
-        category: 'Militare',
+        id: 'morte-lucio-vero',
+        year: 169,
+        title: 'Morte di Lucio Vero',
+        description: 'Lucio Vero, co-imperatore con Marco Aurelio, muore lasciando quest\'ultimo come unico imperatore.',
+        category: 'Imperatori',
         importance: 2
       },
       {
-        id: 'successione-commodo',
+        id: 'commodo-successione',
         year: 177,
         title: 'Nomina di Commodo',
-        description: 'Marco Aurelio nomina come successore il figlio Commodo, che riproporrà un modello autocratico di governo.',
-        category: 'Politica',
+        description: 'Marco Aurelio nomina come suo successore il figlio Commodo, che riproporrà il modello autocratico.',
+        category: 'Imperatori',
         importance: 2
       },
       {
         id: 'morte-marco-aurelio',
         year: 180,
         title: 'Morte di Marco Aurelio',
-        description: 'Marco Aurelio muore a Vindobona (Vienna). Non riceve l\'apoteosi in quanto contraria ai principi stoici dell\'assenza di classi sociali.',
+        description: 'Marco Aurelio muore a Vindobona (l\'attuale Vienna) dopo 19 anni di spedizioni militari durante le quali aveva utilizzato le sue ricchezze personali per sostenere lo stato.',
         category: 'Imperatori',
         importance: 3
       },
       {
-        id: 'regno-commodo',
+        id: 'pace-marcomanni',
         year: 180,
-        title: 'Regno di Commodo',
-        description: 'Commodo conclude frettolosamente la pace con Quadi e Marcomanni, rinunciando ai territori per cui aveva combattuto il padre. Si dedica al culto della propria persona.',
-        category: 'Imperatori',
-        importance: 2
-      },
-      {
-        id: 'politica-commodo',
-        year: 185,
-        title: 'Politica di Commodo',
-        description: 'Elargisce donativi e organizza giochi sontuosi, ottenendo il consenso della plebe e dell\'esercito ma alienando il senato.',
-        category: 'Politica',
+        title: 'Pace con Quadi e Marcomanni',
+        description: 'Commodo conclude frettolosamente la pace con Quadi e Marcomanni, rinunciando ai territori per i quali il padre aveva combattuto.',
+        category: 'Guerre',
         importance: 2
       },
       {
         id: 'morte-commodo',
         year: 192,
         title: 'Assassinio di Commodo',
-        description: 'Commodo viene ucciso in una congiura, aprendo un periodo di caos nella successione imperiale.',
+        description: 'Commodo viene assassinato in seguito a una congiura, dopo un regno caratterizzato da donativi alla plebe e giochi sontuosi, ma anche dall\'allontanamento del senato.',
         category: 'Imperatori',
         importance: 3
       }
@@ -364,86 +268,38 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
   {
     id: 'severi',
     title: 'Dinastia dei Severi',
-    startYear: 192,
+    startYear: 193,
     endYear: 235,
     events: [
       {
-        id: 'crisi-successione',
-        year: 192,
-        title: 'Crisi di Successione',
-        description: 'Alla morte di Commodo scoppia il caos. Il senato elegge Elvio Pertinace, che viene ucciso dai pretoriani che nominano Didio Giuliano.',
-        category: 'Politica',
-        importance: 3
-      },
-      {
-        id: 'tre-imperatori',
+        id: 'guerra-civile',
         year: 193,
         title: 'Guerra Civile',
-        description: 'Le legioni proclamano tre diversi sovrani, tra cui Settimio Severo, pro-console della Pannonia, che emergerà vittorioso.',
-        category: 'Guerra Civile',
+        description: 'Alla morte di Commodo scoppia il caos con l\'elezione di due sovrani: Elvio Pertinace e Didio Giuliano. Le legioni proclamano tre sovrani, tra cui Settimio Severo.',
+        category: 'Guerre Civili',
         importance: 3
       },
       {
-        id: 'settimio-severo',
+        id: 'settimio-severo-inizio',
         year: 193,
-        title: 'Ascesa di Settimio Severo',
-        description: 'Inizia il regno di Settimio Severo, nato in Africa. Con una brillante carriera militare alle spalle, darà inizio alla dinastia dei Severi.',
+        title: 'Inizio della Dinastia dei Severi',
+        description: 'Settimio Severo, originario dell\'Africa e con una carriera militare, diventa imperatore dando inizio alla dinastia dei Severi.',
         category: 'Imperatori',
         importance: 3
       },
       {
-        id: 'riforme-provinciali',
-        year: 195,
-        title: 'Riforme Provinciali',
-        description: 'Favorisce le province a discapito del senato, spostando il potere verso le periferie dell\'impero. Ammette senatori provinciali come suoi sostenitori.',
-        category: 'Politica',
-        importance: 2
-      },
-      {
-        id: 'riforme-militari',
-        year: 197,
-        title: 'Riforme Militari',
-        description: 'Aumenta il salario dei soldati, specie nelle zone pericolose, introduce premi al merito e permette alle famiglie di vivere vicino agli accampamenti.',
-        category: 'Militare',
+        id: 'riforme-severo',
+        year: 194,
+        title: 'Riforme di Settimio Severo',
+        description: 'Severo favorisce le province a discapito del senato, ammette provinciali in senato e aumenta i benefici per i soldati, specialmente nelle zone pericolose. Questo porta a un aumento delle tasse.',
+        category: 'Leggi e Riforme',
         importance: 3
       },
       {
-        id: 'aumento-tasse',
-        year: 200,
-        title: 'Crisi Fiscale',
-        description: 'L\'aumento delle spese militari porta a un incremento delle tasse che causa problemi di carestia.',
-        category: 'Economia',
-        importance: 2
-      },
-      {
-        id: 'morte-settimio',
-        year: 211,
-        title: 'Morte di Settimio Severo',
-        description: 'Muore Settimio Severo, lasciando l\'impero ai figli Caracalla e Geta.',
-        category: 'Imperatori',
-        importance: 2
-      },
-      {
-        id: 'caracalla-regno',
-        year: 211,
-        title: 'Regno di Caracalla',
-        description: 'Caracalla uccide il fratello Geta e governa da solo. Emana la Constitutio Antoniniana che estende la cittadinanza a tutti gli abitanti dell\'impero.',
-        category: 'Imperatori',
-        importance: 3
-      },
-      {
-        id: 'alessandro-severo',
-        year: 222,
-        title: 'Regno di Alessandro Severo',
-        description: 'Abolisce i culti orientali e ripristina il prestigio dell\'aristocrazia senatoria. Sarà l\'ultimo dei Severi.',
-        category: 'Imperatori',
-        importance: 2
-      },
-      {
-        id: 'fine-severi',
+        id: 'crisi-iii-secolo',
         year: 235,
-        title: 'Fine dei Severi',
-        description: 'Alessandro Severo viene ucciso in una congiura delle legioni. Termina la dinastia dei Severi e inizia la grande Crisi del III secolo.',
+        title: 'Fine della Dinastia e Inizio della Crisi',
+        description: 'Con la morte di Alessandro Severo si conclude la dinastia dei Severi. Le alte tasse e i problemi di carestia portano alla Crisi del III secolo.',
         category: 'Crisi',
         importance: 3
       }
@@ -451,95 +307,167 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
   },
   {
     id: 'anarchia-militare',
-    title: 'Anarchia Militare e Crisi del III Secolo',
+    title: 'Anarchia Militare',
     startYear: 235,
     endYear: 284,
     events: [
       {
-        id: 'anarchia-militare-inizio',
+        id: 'inizio-anarchia',
         year: 235,
-        title: 'Inizio dell\'anarchia militare',
-        description: 'Periodo di grave instabilità con continua elezione di imperatori da parte delle legioni. Le legioni assumono maggiore importanza militare.',
+        title: 'Inizio dell\'Anarchia Militare',
+        description: 'Inizia un periodo di caos in cui vengono eletti numerosi imperatori contemporaneamente. Le legioni assumono maggiore importanza militare mentre i pretoriani diventano gradualmente funzionari amministrativi.',
         category: 'Crisi',
-        importance: 1
+        importance: 3
       },
       {
-        id: 'crisi-economica',
+        id: 'massimino-trace',
+        year: 235,
+        title: 'Massimino il Trace',
+        description: 'Primo imperatore analfabeta, sposta la capitale a Sirmio. La sua ascesa evidenzia la frattura tra il senato e le legioni dopo la riforma di Caio Mario.',
+        category: 'Imperatori',
+        importance: 2
+      },
+      {
+        id: 'filippo-arabo',
+        year: 244,
+        title: 'Filippo l\'Arabo e la Pace con i Parti',
+        description: 'Ex prefetto del pretorio, stringe la pace con i Parti e contrasta le incursioni dei Goti. Durante il suo regno, il Regno di Palmira diventa autonomo.',
+        category: 'Imperatori',
+        importance: 2
+      },
+      {
+        id: 'decio-persecuzioni',
         year: 250,
-        title: 'Crisi economica e sociale',
-        description: 'I contadini vendono i loro appezzamenti ai latifondisti, spesso diventando servi della gleba. Inizia il declino delle città.',
-        category: 'Economia',
-        importance: 1
+        title: 'Persecuzioni di Decio',
+        description: 'Emana un editto contro i cristiani, riprendendo le persecuzioni. Introduce l\'obbligo del rito dell\'imperatore, con rilascio di un libello come prova.',
+        category: 'Religione',
+        importance: 3
+      },
+      {
+        id: 'aureliano-riforme',
+        year: 270,
+        title: 'Riforme di Aureliano',
+        description: 'Costruisce le mura di Roma, riconquista i regni indipendenti e argina le espansioni ai danni dell\'impero.',
+        category: 'Imperatori',
+        importance: 3
       }
     ]
   },
   {
-    id: 'cristianesimo',
-    title: 'Diffusione del Cristianesimo',
-    startYear: 313,
-    endYear: 380,
+    id: 'tetrarchia-costantino',
+    title: 'Dalla Tetrarchia a Costantino',
+    startYear: 284,
+    endYear: 337,
     events: [
+      {
+        id: 'diocleziano-tetrarchia',
+        year: 284,
+        title: 'Tetrarchia di Diocleziano',
+        description: 'Diocleziano divide l\'impero in quattro parti con due Augusti (lui e Massimiano) e due Cesari (Galerio e Costanzo Cloro). Introduce riforme amministrative e militari significative.',
+        category: 'Riforme Politiche',
+        importance: 3
+      },
+      {
+        id: 'editto-prezzi',
+        year: 301,
+        title: 'Editto dei Prezzi',
+        description: 'Diocleziano stabilisce un tetto massimo per i prezzi dei beni di prima necessità, tentando di controllare l\'inflazione.',
+        category: 'Economia',
+        importance: 2
+      },
+      {
+        id: 'abdicazione-diocleziano',
+        year: 305,
+        title: 'Abdicazione di Diocleziano',
+        description: 'Diocleziano rinuncia al potere e costringe Massimiano a fare lo stesso, creando instabilità nel sistema tetrarchico.',
+        category: 'Politica',
+        importance: 2
+      },
+      {
+        id: 'costantino-ascesa',
+        year: 306,
+        title: 'Ascesa di Costantino',
+        description: 'Dopo la morte di Costanzo Cloro, le legioni della Britannia eleggono Costantino come imperatore, dando inizio a una nuova era.',
+        category: 'Imperatori',
+        importance: 3
+      },
+      {
+        id: 'battaglia-milvio',
+        year: 312,
+        title: 'Battaglia di Ponte Milvio',
+        description: 'Costantino sconfigge Massenzio a Roma, evento che segna l\'inizio del favore imperiale verso il cristianesimo.',
+        category: 'Guerre',
+        importance: 3
+      },
       {
         id: 'editto-milano',
         year: 313,
         title: 'Editto di Milano',
-        description: 'Costantino impone la libertà di religione. Il cristianesimo inizia a diffondersi nelle alte cariche di governo.',
+        description: 'Costantino emana l\'editto che garantisce la libertà di culto ai cristiani e a tutte le religioni dell\'impero.',
         category: 'Religione',
-        importance: 1
-      },
-      {
-        id: 'concilio-arles',
-        year: 314,
-        title: 'Concilio di Arles',
-        description: 'Primo concilio della Chiesa occidentale, convocato da Costantino per risolvere la controversia donatista in Africa. Si stabiliscono importanti norme disciplinari.',
-        category: 'Religione',
-        importance: 2
-      },
-      {
-        id: 'concilio-nicea',
-        year: 325,
-        title: 'Concilio di Nicea',
-        description: 'Costantino convoca il primo concilio ecumenico per stabilire regole comuni e creare un rito comune (il credo).',
-        category: 'Religione',
-        importance: 1
-      },
-      {
-        id: 'teodosio-cristianesimo',
-        year: 380,
-        title: 'Editto di Tessalonica',
-        description: 'Teodosio stabilisce il cristianesimo come religione di stato, creando scontri con i pagani d\'occidente.',
-        category: 'Religione',
-        importance: 1
+        importance: 3
       }
     ]
   },
   {
-    id: 'divisione-caduta',
-    title: 'Divisione e Fine dell\'Impero',
-    startYear: 284,
+    id: 'dopo-costantino',
+    title: 'Dai Figli di Costantino a Teodosio',
+    startYear: 337,
+    endYear: 395,
+    events: [
+      {
+        id: 'divisione-impero-costantino',
+        year: 337,
+        title: 'Divisione dell\'Impero tra i Figli di Costantino',
+        description: 'L\'impero viene diviso tra Costante (cristiano cattolico), Costanzo II (ariano) e Costantino II (che muore subito).',
+        category: 'Politica',
+        importance: 3
+      },
+      {
+        id: 'giuliano-apostata',
+        year: 361,
+        title: 'Regno di Giuliano l\'Apostata',
+        description: 'Giuliano tenta di restaurare il paganesimo e diventa il primo imperatore a utilizzare la scuola come strumento di diffusione ideologica.',
+        category: 'Imperatori',
+        importance: 2
+      },
+      {
+        id: 'battaglia-adrianopoli',
+        year: 378,
+        title: 'Disastro di Adrianopoli',
+        description: 'L\'esercito romano viene annientato dai Visigoti e l\'imperatore Valente muore in battaglia, segnando una svolta nei rapporti con i barbari.',
+        category: 'Guerre',
+        importance: 3
+      },
+      {
+        id: 'teodosio-imperatore',
+        year: 379,
+        title: 'Teodosio Diventa Imperatore',
+        description: 'Il generale spagnolo Teodosio viene nominato imperatore d\'Oriente, dovendo affrontare la crisi dell\'esercito e i problemi con i Visigoti.',
+        category: 'Imperatori',
+        importance: 3
+      },
+      {
+        id: 'editto-tessalonica',
+        year: 380,
+        title: 'Editto di Tessalonica',
+        description: 'Teodosio stabilisce il cristianesimo come religione di stato, vietando i culti pagani.',
+        category: 'Religione',
+        importance: 3
+      }
+    ]
+  },
+  {
+    id: 'caduta-occidente',
+    title: 'Caduta dell\'Impero d\'Occidente',
+    startYear: 395,
     endYear: 476,
     events: [
       {
-        id: 'diocleziano',
-        year: 284,
-        title: 'Diocleziano e la Tetrarchia',
-        description: 'Diocleziano riorganizza l\'impero dividendolo in due parti (Oriente e Occidente) e istituendo la tetrarchia: due augusti e due cesari.',
-        category: 'Politica',
-        importance: 3
-      },
-      {
-        id: 'costantino-capitale',
-        year: 330,
-        title: 'Nuova Capitale',
-        description: 'Costantino sposta la capitale a Costantinopoli, l\'antica Bisanzio, segnando uno spostamento definitivo del potere verso oriente.',
-        category: 'Politica',
-        importance: 3
-      },
-      {
         id: 'divisione-impero',
-        year: 384,
+        year: 395,
         title: 'Divisione Definitiva dell\'Impero',
-        description: 'L\'impero viene definitivamente diviso in due parti: l\'Impero Romano d\'Occidente con capitale Milano/Ravenna e l\'Impero Romano d\'Oriente con capitale Costantinopoli.',
+        description: 'Alla morte di Teodosio, l\'impero viene diviso definitivamente tra i suoi figli: Onorio in Occidente e Arcadio in Oriente.',
         category: 'Politica',
         importance: 3
       },
@@ -547,24 +475,88 @@ export const historicalData: Array<TimelineSection & { events: HistoricalEvent[]
         id: 'sacco-roma',
         year: 410,
         title: 'Sacco di Roma',
-        description: 'I Visigoti di Alarico saccheggiano Roma. È la prima volta dopo 800 anni che la città viene conquistata da un esercito straniero.',
-        category: 'Guerra',
+        description: 'I Visigoti di Alarico saccheggiano Roma per tre giorni, segnando simbolicamente la fine dell\'inviolabilità della città eterna.',
+        category: 'Guerre',
         importance: 3
       },
       {
-        id: 'attila',
+        id: 'attila-invasione',
         year: 452,
-        title: 'Invasione degli Unni',
-        description: 'Attila invade l\'Italia. Papa Leone I riesce a convincerlo a non attaccare Roma.',
-        category: 'Guerra',
+        title: 'Invasione di Attila',
+        description: 'Attila e gli Unni invadono l\'Italia settentrionale, fermandosi dopo l\'incontro con Papa Leone I.',
+        category: 'Invasioni',
+        importance: 3
+      },
+      {
+        id: 'fine-impero',
+        year: 476,
+        title: 'Caduta dell\'Impero Romano d\'Occidente',
+        description: 'Odoacre depone l\'ultimo imperatore Romolo Augustolo e invia le insegne imperiali a Costantinopoli, segnando la fine formale dell\'Impero d\'Occidente.',
+        category: 'Eventi Storici',
+        importance: 3
+      }
+    ]
+  },
+  {
+    id: 'giustiniano-cosroe',
+    title: 'Da Giustiniano a Cosroe II',
+    startYear: 527,
+    endYear: 628,
+    events: [
+      {
+        id: 'giustiniano-regno',
+        year: 527,
+        title: 'Inizio del Regno di Giustiniano',
+        description: 'Giustiniano diventa imperatore con l\'obiettivo della "restauratio imperii". Sposato con Teodora, avvia importanti riforme legali e militari.',
+        category: 'Imperatori',
+        importance: 3
+      },
+      {
+        id: 'corpus-iuris',
+        year: 529,
+        title: 'Corpus Iuris Civilis',
+        description: 'Giustiniano fa compilare il Corpus Iuris Civilis, base fondamentale del diritto romano e futuro riferimento per gli stati moderni.',
+        category: 'Leggi e Riforme',
+        importance: 3
+      },
+      {
+        id: 'guerra-vandali',
+        year: 533,
+        title: 'Guerra contro i Vandali',
+        description: 'Il generale Belisario conquista il Nord Africa dai Vandali, iniziando la riconquista dell\'Occidente.',
+        category: 'Guerre',
         importance: 2
       },
       {
-        id: 'caduta-impero',
-        year: 476,
-        title: 'Caduta dell\'Impero d\'Occidente',
-        description: 'Odoacre depone l\'ultimo imperatore romano d\'Occidente, Romolo Augustolo. L\'Impero d\'Oriente continuerà come Impero Bizantino.',
-        category: 'Crisi',
+        id: 'guerra-gotica',
+        year: 535,
+        title: 'Inizio della Guerra Greco-Gotica',
+        description: 'Inizia la lunga guerra contro gli Ostrogoti in Italia, che si concluderà nel 553 con gravi conseguenze per la penisola.',
+        category: 'Guerre',
+        importance: 3
+      },
+      {
+        id: 'prammatica-sanzione',
+        year: 554,
+        title: 'Prammatica Sanzione',
+        description: 'L\'Italia diventa una provincia dell\'impero, soggetta a tassazione basata sulla ricchezza, provocando malcontento tra gli aristocratici.',
+        category: 'Leggi e Riforme',
+        importance: 2
+      },
+      {
+        id: 'cosroe-assedio',
+        year: 626,
+        title: 'Assedio di Costantinopoli',
+        description: 'Cosroe II dei Persiani assedia Costantinopoli mentre Eraclio combatte contro bulgari, avari e slavi.',
+        category: 'Guerre',
+        importance: 3
+      },
+      {
+        id: 'morte-cosroe',
+        year: 628,
+        title: 'Morte di Cosroe II',
+        description: 'I soldati persiani uccidono Cosroe II dopo le sconfitte subite contro l\'esercito di Eraclio.',
+        category: 'Imperatori',
         importance: 3
       }
     ]

@@ -11,7 +11,7 @@ export const theme = createTheme({
     },
     background: {
       default: colors.background,
-      paper: colors.background,
+      paper: colors.paper,
     },
     error: {
       main: colors.accent1,

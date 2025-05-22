@@ -320,7 +320,7 @@ Riscuote le tasse e le da al governatore
 -iniziano problemi tra stato e chiesa che porteranno alla rivoluzione francese
 -Costantino introduce la possibilità per i fedeli di lasciare i terreni o beni in eredità o alla chiesa. la chiesa non doveva nemmeno pagare le tasse sulla successione
 -Problema: la chiesa in questo modo cerca di avvicinarsi ad una collaborazione con lo stato
--314: vi è il concilio di Arl che viene convocato perché c’è un problema nell’esercito, i vescovi si schierano contro i soldati che non partecipano alle battaglie in nome di dio- nasce il concetto di guerra giusta. viene stabilito che chi si rifiuta viene scomunicato ossia che viene eliminato dalla comunità cristiana e dunque non poteva sperare nell’aldilà.
+-314: vi è il consiglio di Arl che viene convocato perché c’è un problema nell’esercito, i vescovi si schierano contro i soldati che non partecipano alle battaglie in nome di dio- nasce il concetto di guerra giusta. viene stabilito che chi si rifiuta viene scomunicato ossia che viene eliminato dalla comunità cristiana e dunque non poteva sperare nell’aldilà.
 - al concilio si prova a risolvere la questione dei donatisti che nascono con diocleziano al che si forma uno scisma con diocleziano, nella quale la chiesa si divide in due:
 ci sono coloro che giustificano il fatto di aver consegnato i libri sacri
 e ci sono gli altri che li condannano per aver tradito
@@ -333,6 +333,7 @@ per sicurezza
 per ragioni economiche
 e perchè a Bisanzio non c’è una cultura legata all’aristocrazia romana
 -Presenta Roma e Bisanzio come due città sullo stesso piano ma con organizzazioni distinte
+
 -Costantino muore nel 337 e si fece battezzare in punto di morte, ma senza un vero testamento, proprio come fece Alessandro Magno
 -Lascia l’impero ai 3 figli:
 Costante: cristiano cattolico
@@ -402,14 +403,14 @@ sono esentati dalle tasse
 non possono attaccare i sudditi dell’impero
 devono contribuire alla difesa delle frontiere nell’area di loro spettanza
 -teodosio fa infuriare l’aristocrazia senatoria, fa propaganda per avere esercito a costo zero
--teodosio voleva evitare ulteriori fratture, dunque Editto di Milano 313:
+-teodosio voleva evitare ulteriori fratture, dunque Editto di Milano 313: L'Editto di Milano del 313 è un documento molto importante nella storia cristiana e dell'Impero Romano. Fu un accordo firmato dall'imperatore Costantino I e dall'imperatore Licinio, che concedeva libertà di culto ai cristiani e garantiva loro il diritto di praticare la loro religione senza persecuzioni.
 Cattolici
 Ariani
 Manicheismo: Dottrina religiosa elaborata dal persiano Mani (sec. III), fondata soprattutto sull'identificazione di due principi assoluti, il Bene e il Male, in perpetuo e insanabile contrasto tra loro.
 -Manicheo: atteggiamento o persona che ragiona in modo dualistico senza sfumature
 
 -nel 383 viene ucciso Graziano
--380 editto di Tessalonica con teodosio, nella quale si stabilisce il cristianesimo come religione di stato e si creano scontri con i pagani d’occidente, i templi pagani vengono chiusi e requisizione dei beni
+-380 editto di Tessalonica con teodosio, nella quale si stabilisce il cristianesimo come religione di stato e si creano scontri con i pagani d’occidente, i templi pagani vengono chiusi e requisizione dei beni. 
 
 -nel 394 Eugenio successore di graziano, che è stato ucciso da teodosio nella battaglia del fiume frigido. eugenio aveva una politica di tolleranza verso i pagani
 -quando teodosio si scontra con eugenio al fronte dell’esercito c’è il re Alarico dei visigoti
@@ -427,7 +428,7 @@ capisce che milano era facilmente attaccabile, dunque costruisce 4 chiese a nord
 si intromette nella discussione dell’introduzione dell’altare della pace della dea Vittoria, i vescovi ottengono maggiori poteri in assenza di una forte personalità imperiale
 -sant’ambrogio ha una biografia scritta dal suo diacono paladino, vita di miracoli
 quando era un neonato fosse stato circondato da un gruppo di api essendo che ai bambini venivano dati il miele
-ambrogio non voleva diventare vescovo e per non farsi eleggere si porta delle prostitute ma viene acclamato nelle assemble
+ambrogio non voleva diventare vescovo e per non farsi eleggere si porta delle prostitute ma viene acclamato nelle assemblee
 -l’unica cosa vera era che ambrogio non voleva essere eletto vescovo
 -Rito ambrosiano: attua delle riforme per differenziarsi dagli ariani che occupavano una delle chiese:
 la pace viene anticipata nella messa
@@ -435,6 +436,223 @@ la messa è maggiormente cantata
 sposta il carnevale a fine settimana
 -384 il prefetto dell’urbe Simmaco cercò di convincere l’imperatore Valentiniano II a ripristinare l’altare e nel 394 Teodosio lo fece rimuovere definitivamente
 -diventa una questione tra ambrogio e simmaco: ambrogio invia molte lettere , agostino ha compreso come san paolo qual’era il modo per diffondere il cristianesimo
+-intuizione dell’istruzione e della cultura per far diventare il cristianesimo importante
+-lui era un filosofo ellenistico che ha avuto una relazione con una donna senza l’intenzione di sposarla, giocava al gioco d’azzardo
+-durante un suo viaggio a milano assiste a una predica di sant’ambrogio, si converte e si fa battezzare nei sotterranei del duomo di milano e rimane colpito dal progetto di ambrogio
+-diventa il primo filosofo cattolico, sfruttando le sue conoscenze filosofiche per attuare una nuova filosofia cattolica
+-patristica: padri della chiesa
+
+-si crea un divario tra i nobili e il clero che sapevano scrivere mentre il popolo era analfabeta, carlo magno si ritrova con il popolo pressoché analfabeta e usa dei fondi imperiali per costruire delle scuole
+-Federazione: accordo militare di difesa e di attacco
+-Società: i soci sono gli alleati dell’impero, dovevano anche pagare un tributo e dovevano stabilire anche accordi di difesa
+-vescovo ariano Ulfila converte i visigoti al cristianesimo ariano
+-Comitatus: unione di una famiglia meno ricca con una ricca, per stabilire un rapporto lavorativo, nella quale diventavano clienti e portavano avanti l’agricoltura di sussistenza
+-De Bellico Gallico: scritto che spiega le battaglie e le caratteristiche etnico-culturale dei galli uguali a quelle dei barbari. è molto importante perché parlava della campagna di cesare.
+-Agostino era di origine algerina ed era strettamente legato alla figura di ambrogio
+sua madre: era cristiana, ma professava in segreto
+suo padre: era fervente pagano ed era violento con le parole e con le mani, impone la cultura e religione pagana ad agostino
+-va a studiare a cartagine la filosofia, siccome era molto intelligente va ad insegnare ad una scuola manichese a roma
+-Manicheismo: filosofia che pensa non esista un dio, ma il mondo è governato da due forze: il bene e il male
+-l'eresia dei catari o albigesi: riprendono il manicheismo
+-quando va a roma rimane deluso del suo lavoro perché non esistono più i veri pagani
+-il suo talento per le orazioni viene notato da simmaco che lo manda a milano per parlare con ambrogio, ma stava facendo la messa, allora Agostino si siede ad ascoltarlo e si converte
+-fonte: confessioni (autobiografia): diario in cui racconta la sua trasformazione da pagano a cristiano. è uno dei libri più letti perché dava la speranza che tutti gli uomini possono migliorarsi. componimento dalla quale prenderà spunto petrarca
+
+-Teodosio fu l’ultimo imperatore a governare tutto l’impero, prima di morire decide di lasciare l’impero ai due figli:
+Onorio: occidente
+Arcadio: oriente dove applica il cesaropapismo
+-Cesaropapismo: è un termine che indica una situazione in cui il potere temporale e quello spirituale sono strettamente collegati, con il sovrano che esercita anche un ruolo di guida religiosa. 
+Occidente: il potere politico perde potere e la chiesa lo sostituisce, il papa assume potere politico
+Oriente: la chiesa era sottomessa dal potere politico, l’imperatore era a capo della chiesa che fa da guida spirituale
+-quando sale al potere Onorio era minorenne, sotto la tutela di Stilicone: era di origine vandala era un barbaro e magister militum
+-l’integrazione dei barbari stava avvenendo solamente in occidente, perché in oriente la burocrazia era in mano ai romani
+-i barbari sui confini avevano capito l’importanza del denaro. Stilicone pagava dei tributi ai capi militari germanici per non farsi attaccare e viene accusato di troppo buonismo
+-Stilicone non viene riconosciuto da Arcadio in quanto è un barbaro, da qui iniziano gli imperatori non riconosciuti
+-comincia una congiura diplomatica che arriva in italia dove viene acutizzata per via dei tributi. gli aristocratici pensano stia favorendo segretamente i barbari
+-i visigoti dopo la battaglia del fiume Frigido avevano addocchiato il nord italia, dunque iniziano le razzie del nord italia (394-402)
+-iniziano ad essere contrastate da teodosio in seguito alla divisione. alarico chiude un occhio sui visigoti
+-Stilicone invia un esercito:
+402 vittoria di Stilicone a Pollenzo, dove in seguito si decide di spostare la capitale a Ravenna
+-Stilicone per assicurarsi che i visigoti tornino nel suo territorio li insegue fino a Verona
+-gli aristocratici lo accusano di favorire i barbari perché non li ha uccisi
+-con Costantino nascono le reliquie ossia una parte del corpo o vestito di una persona importante per la chiesa. nasce perchè Elena, la mamma di Costantino, dopo un viaggio in terra Santa porta a costantinopoli un pezzo di croce di Gesù (falso) per essere venerato in una chiesa
+-Costante nel medioevo: commercio illecito di reliquie e anche di falsi
+
+-Prime invasioni barbariche (406-407) da parte dei vandali, alani, burgundi e suebi. l’aristocrazia pensa che stilicone abbia aiutato i vandali
+-si era indebolito il confine renano per via degli unni
+-Invasioni: entrano nel territorio per invaderlo ovvero stanziarsi in modo permanente sul territorio romano. non si stanziano sul confine ma vanno alla ricerca del territorio più idoneo
+-Razzie: entrano nel territorio, lo saccheggiano e ne escono per tornare nel loro territorio con i beni acquisiti
+-nel 408 Stilicone viene condannato a morte come traditore della patria senza possibilità di appello. viene condannato da Onorio spinto dalle pressioni degli aristocratici a causa dell’aumento delle tasse
+-nel 410 i visigoti si riorganizzano e avviene il Sacco di Roma. che consiste nel saccheggiamento della città per 3 giorni di ogni bene e scoppiando alcuni incendi
+-per alcuni storici questo segna la fine dell’impero romano nella quale cade l’unica certezza:
+l’inviolabilità di roma che invece diventa una città come un’altra. dal 410-476 la presenza dell’imperatore non è più sentita 
+-il sacco di roma viene visto in modo diverso dalle religioni:
+Cristiani: lo vedono come l’Ira di Dio come punizione verso i pagani e che i cristiani si devono impegnare di più
+Pagani: lo vedono come la punizione degli dei che non si sentono più sicuri
+-Agostino per dare speranza nella vita dopo la morte dice che l’uomo non deve tendere alla “Gerusalemme terrena”, ma tendere alla “Gerusalemme Celeste”. dice che bisogna essere felici della distruzione di roma che elimina le passioni terrene.
+
+-Alarico (re dei visigoti) uscito da roma si sente invincibile e si dirige verso il sud italia dove muore improvvisamente: per febbre causata da avvelenamenti oppure causata da un malanno
+-Alarico si trovava in calabria , dove aveva un piano malefico, quello di andare in egitto, ma scoperto da una spia, viene avvelenato
+-i visigoti eleggono Talaurfo come successore, che risale l’italia fino la gallia sud occupata dai vandali. li cacciano e vanno in spagna.
+-Franchi: si trovano nella gallia del nord
+-Burgundi si trovano nella gallia sud-orientale
+-Suebi
+-i visigoti creano il primo regno barbarico con rapporto di hospitalitas con Ravenna 
+-Hospitalitas: concetto sacro per i romani di accoglienza, nella quale non si attaccano a vicenda
+-non formano un legame di federazione perché non avevano le risorse per addestrare popoli diversi nell’esercito, che alla prima occasione si sarebbero ribellati
+Angli e Sassoni: sud della britannia
+Vandali: sud della spagna, oltrepassano lo stretto di gibilterra e conquistano tutta la provincia d’africa del nord e nel 436 cartagine
+-i vandali sono il primo regno barbarico ad adottare una flotta e diventano i nuovi pirati del mediterraneo
+-i vandali tengono sotto assalto Ravenna con la flotta 
+
+-Alarico dopo il sacco di roma prende come ostaggio Galla Placidia, che è la figlia di teodosio e sorella dell’imperatore. viene rapita da alarico e si sposa con Ataulfo che non era riconosciuto dalla corte di ravenna 
+-morto Ataulfo ravenna cerca in ogni modo di portare Galla a Ravenna, dove viene data in sposa ad un comandante figlio di Valentiniano III
+-nel 445 Attila diventa re degli unni. che diventano il primo regno barbarico che si unifica prima di invadere l’impero. il regno era l’unione di: gepidi, longobardi, eruli, slavi che prima erano sottomessi
+-entrano nella Pannonia (oriente) ma Attila non soddisfatto va e devasta la Gallia
+-451 sconfitta ai campi Catalaunici che avevano un esercito formato da barbari guidato da Ezio
+-452 Attila entra nel nord italia attraversando Aquileia e arriva fino a Mantova dove prese il soprannome di “flagello di dio”. in seguito c’è l’incontro tra attila e papa Leone I, il vescovo si prende la briga di chiedere di smettere l’invasione
+-motivi per cui Attila accetta:
+esercito sguarnito
+probabilmente soffriva di una malattia
+-453 Attila muore e gli unni si disgregano. l’anno dopo muore ezio per volere di Valentiniano III
+
+-L’impero cadde nel 476  con l’imperatore Romolo Augustolo
+-egli diventa imperatore in età giovane per volere del padre Oreste che era il comandante generale delle legioni e scegli il figlio pensando di evitare i colpi di stato
+-476-490 Odoacre. Il generale Odoacre si ribella e sconfigge Oreste. depone Romolo perché era un bambino che non poteva combattere. invia le insegne imperiali a Zenone imperatore d’oriente. le insegne era l’unico modo per mostrare il potere dell’imperatore a tutti e quindi per gestire lo stato
+-Zenone come riconoscimento lascia ad Odoacre governare l’italia e comincia a governare come un sovrano distaccato dall’impero
+-490 Zenone invia una delegazione di ostrogoti con a capo il loro re Teodorico 
+-Dopo tre anni nel 493 sconfigge Odoacre
+-Teodorico governa dal 493-526
+
+-493-518 convivenza pacifica tra goti e romani
+-518-526 persecuzioni contro i cattolici
+-Teodorico era il figlio del re ostrogoto, cresciuto come ostaggio di guerra a costantinopoli poi rimane a costantinopoli come ostaggio di pace. riceve un’educazione romana ed era un amante dell’architettura.
+-1 problema: era ariano
+-2 problema: i suoi seguaci, i goti, aveva come unico interesse il valore militare
+-egli non crea integrazione ma crea una politica di separazione, nella quale i due popoli avevano mansioni distinte
+- i romani non avevano accesso all’esercito, ma erano presenti nella vita politica e amministrativa
+-gli ostrogoti non accettano le leggi romane, dunque i romani seguono le proprie leggi e gli ostrogoti le proprie
+-per cercare di creare integrazione teodorico non si è mai schierato contro i cattolici, ma fa entrare due scrittori cattolici che diventano i suoi fedeli consiglieri: Boezio e Cassio d’oro
+-Teodorico viene visto diversamente:
+i romani lo vedono come un funzionario dell’impero
+gli ostrogoti lo vedono come un re distaccato dall’impero
+-Teodorico comincia a comportarsi come un re come Odoacre
+-nel 496 l'imperatore Giustino si allea con i franchi e il papa
+
+-Attorno al 480 viene eletto re Clodoveo
+-nel 496 clodoveo decide un battesimo di massa, dove i franchi passano dall’arianesimo al cattolicesimo, poiché volevano integrarsi, per allearsi con il papa
+-Teodorico capisce di essere accerchiato
+-nel 518 Giustino comincia una politica anti-ariana, che viene vista da teodorico come un affronto al suo operato
+-muore Boezio e Papa giovanni I, ma nel 526  muore anche Teodorico, dunque si elimina la presenza di uno stato goto in italia
+
+-Cosa succede ad oriente nel III secolo? cause del successo:
+Militare
+Economico
+Politico
+-non esisteva un’aristocrazia fondiaria, perchè non essendoci crisi i contadini non avevano sentito il bisogno di vendere le loro terre. gli aristocratici non abbandonano le città perché le tasse non vengono alzate
+-in occidente  il latifondo era diventato il centro abitativo nelle campagne
+- a partire dal III secolo l’esercito era mercenario, ed era fedele all’imperatore. in particolare il popolo degli isauri viene inglobato nell’esercito con un trattato militare che diceva che erano soldati stipendiati dall’impero
+-l’economia era prospera di più in oriente perché l’oriente aveva due caratteristiche:
+Controllava le zone di grande produzione agricola: egitto, siria, palestina
+Posizioni favorevoli e dunque maggiori commerci
+-Bisante è la moneta d’oro usata in oriente
+-avere questa economia permetteva di avere funzionari laici. dunque la chiesa non ha potere politico ma è sottomessa dall’imperatore
+-Cesaropapismo: atteggiamento secondo cui l’aspetto politico controlla la chiesa
+-L’imperatore d’oriente  dice di essere il vicario di dio, che era un potere ottenuto da dio che permetteva di controllare tutti i vescovi 
+-Patriarchi: nome dei vescovi in oriente
+-le diocesi in occidente assumono funzione politica
+-le diocesi in oriente sono delle circoscrizioni territoriali dove i patriarchi hanno potere religioso
+-le sedi dei patriarca si trovavano a: Costantinopoli, Antiochia, Gerusalemme e Alessandria d’Egitto
+-si sono diffuse delle nuove dottrine:
+428 nestorianesimo: prende il nome dal patriarca Nestorio di Costantinopoli, nella quale si ritiene che in Gesù esistono due nature differenti che si alternano
+monofisismo: si ritiene che Gesù ha una sola natura, ossia quella divina
+-nel 428 il patriarca più importante Nestorio espone la sua ipotesi, alla quale il patriarca di Alessandria d’Egitto si era opposto. la siria e l’egitto stavano cercando un pretesto per separarsi con una frattura religiosa e poi politica
+-il patriarca chiede un concilio all’imperatore. si arriva al Concilio di Efeso del 431 nella quale si condanna il nestorianesimo
+-l’imperatore non poteva creare fratture, ma chiude un occhio per il patriarca di Alessandria
+-nasce il monofisismo sempre con l’intenzione di separare Alessandria dall’impero
+
+-Giustiniano 527-565 adotta questo nome in nome dello zio
+-nel 525 quando si chiamava ancora flavio si era sposato con Teodora che era una danzatrice-attrice non nobile che aveva conosciuto in un ippodromo dove scommetteva
+-dopo le nuove disponibilità economiche si è acculturata ed era diventata un ottima consigliera e diventa una imperatrice molto apprezzata
+-Tutte le imperatrici:
+partecipava alle riunioni
+aveva diritto di parola
+aveva diritto di voto
+-viene chiamata augusta 
+-il progetto di Giustiniano era “restauratio imperii” ovvero voleva restaurare l’impero
+-unità all’impero:
+Unità politica: l’imperatore non veniva riconosciuto come massima autorità
+Unità territoriale: in occidente c’erano i regni barbarici ci si preparava ad una grande guerra
+Unità religiosa: religione cattolica, schieramento netto forte espressione delle eresie
+-Corruzione:
+Monetaria
+Fedeltà
+-dunque sceglie delle persone estremamente fidate a capo dei settori più corrotti 
+-Esercito:  nomina 2 generali: Belisario e Narsete, protagonisti della guerra greco-gotica
+-Per risolvere la corruzione monetaria:
+Nomina del giurista: Triboniano
+Ministro dell’economia: Giovanni di Cappadocia
+A capo l’imperatrice Teodora
+-Giustiniano aveva bisogno di soldi per le guerre:
+Campagna greco-gotica
+esercito che interveniva sulle rivolte
+-Applica un controllo scrupoloso sulle tasse e dei funzionari
+-aumenta le tasse per i ceti medi, ciò porta a:
+Meno bottegai
+Meno contadini che provoca un aumento dei fondiari
+-il suo problema più grande era il papa che cerca di creare un’unità tra oriente e occidente
+-Giustiniano pensando che le scuole potessero diffondere il paganesimo nel 529 chiude la scuola  l’accademia di Atene e da qui inizia la decadenza di Giustiniano
+-Apre una serie di cantieri a costantinopoli e in tutto l’impero per costruire chiese e basiliche, la più importante sarà la basilica di Santa Sofia
+-Codice di leggi di Giustiniano del 527-533 chiamato Corpus iuris civilis che è la base su cui si fonderanno gli stati moderni e la costituzione. viene scritto da un gruppo di giuristi tra cui Triboniano, ha aggiornato la costituzione romana.  Viene stabilito come un insieme di norme e principi fondamentali del diritto romano, che ha avuto un'influenza enorme sullo sviluppo del diritto civile in molte parti del mondo. 
+-Legge delle 12 tavole (monarchico), nella quale vengono aggiunti degli editti emanati dai consoli poi pretori servivano per togliere l’accentramento di potere ai consoli
+
+-varie riforme della costituzione
+modifica della costituzione di Diocleziano, nella quale instaura una tetrarchia 
+Costantino modifica la costituzione sia sulla parte civile sia su quella religiosa 
+Teodosio modifica la costituzione e stabilisce che la religione dell’impero è il cristianesimo, elimina gli auguri e il titolo di pontefice massimo
+-la costituzione di Teodosio non era rispettata in occidente a causa dei regni barbarici.
+
+-3 sostenitori del piano di espansione a occidente:
+Mercanti: per via della presenza dei pirati nel mediterraneo (vandali) zone di appoggio: corsica e isole baleari
+Aristocrazia fondiaria: per rientrare in possesso dei territori espropriati a causa della presenza dei barbari
+Papato
+-533-534 Prima diretta militare guidata dal generale Belisario. conquista dei territori dei vandali a nord d’africa e poi conquistare la corsica e le isole baleari
+-punta il nord d’africa perché ricco di apprigionamenti agricoli e del pericolo di un’alleanza tra vandali e ostrogoti
+-535-553 Seconda fase: i vandali sono stati sconfitti perché non si erano integrati con la popolazione locale
+
+-Guerra greco-gotica:anche conosciuta come la guerra tra l'Impero Bizantino e i Goti, si riferisce a diversi conflitti storici tra queste due entità. Tuttavia, il termine più comune si riferisce alle guerre tra l'Impero Bizantino e i Goti durante il periodo delle invasioni barbariche, in particolare nel V secolo e nei secoli successivi.
+- tra il 526-535 gli ostrogoti tornano a vivere come in precedenza. non hanno più un sovrano e sono divisi in tribù e continuano la politica di Teodorico e non si integrano
+-sono a conoscenza della politica di Giustiniano e si trovano in caos:
+non possiedono un esercito che non comprende i romani
+numericamente inferiori all’esercito bizantino
+sono divisi
+
+-gli Ostrogoti eleggono un re Totila che era un generale che scende a compromessi con i romani
+- essendo che non ha il sostegno dei mercanti e dell’aristocrazia punta ai poveri contadini: allenta le pressioni fiscali, libera alcuni schiavi di guerra in cambio della partecipazione nell’esercito
+-per ricavare le tasse aumenta le tasse agli aristocratici che erano già nemici degli ostrogoti
+-Totila  capisce che ha bisogno di cibo per l’esercito, dunque espropria le terre degli aristocratici per controllare l’agricoltura
+-552 muore Totila, la guerra greco.gotica ha distrutto fisicamente l’italia: gli aristocratici non possiedono le terre, non avevano contadini e schiavi e non avevano fondi. i terreni incolti pian piano diventano boschi
+
+-544 prammatica sanzione: l’italia diventa una provincia, viene soggetta ad una tassazione a seconda della ricchezza e vengono colpiti anche gli aristocratici
+-forte malcontento che preferivano i goti, fallimento della politica di Giustiniano che vince le battaglie ma non la guerra
+-L’esercito bizantino costava un sacco e porta in crisi economica l’impero
+
+-i visigoti creano l’ultimo grande impero barbarico
+-minaccia per l’impero:
+da est arrivano: slavi, avari, bulgari che creano forti problemi all’impero bizantino
+-arrivano i longobardi nel 567 in italia
+-successore di Giustiniano è Maurizio
+-fin dal 554 le risorse diminuiscono a causa dei berberi (romani e tribù del sud africa) che spingono i bizantini a controllare solo la casta
+-Esarcato: zona con presenza militare
+-Esarca civile e generale a ravenna e cartagine
+-l’impero persiano si espande fino alle porte di cartagine e si espande fino all’asia minore che crea una crisi militare
+-Maurizio suddivide l’occidente in temi
+-Eraclio successore di maurizio era figlio dell’esarca di cartagine
+
+-626-628 Eraclio si ritrova a fronteggiare bulgari, avari, slavi e persiani
+-Cosroe II nel 626 assedia costantinopoli ed Eraclio lascia la città nel suo destino e si concentra a combattere con i barbari
+-l’esercito formato da soldati-contadini macedoni e anatolici sconfiggono i persiani
+-i soldati persiani uccidono Corsoe II
 
 
 

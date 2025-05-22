@@ -46,19 +46,17 @@ const Navbar = () => {
       <AppBar 
         position="sticky" 
         sx={{ 
-          backgroundColor: colors.background, 
+          backgroundColor: colors.paper,
           boxShadow: 1,
-          width: '100vw',
-          left: 0 
+          borderBottom: `1px solid ${colors.secondary}20`
         }}
       >
-        <Toolbar sx={{ width: '100%', maxWidth: '100%' }}>
+        <Toolbar>
           <IconButton
-            color="inherit"
-            aria-label="open drawer"
+            color="primary"
             edge="start"
             onClick={handleDrawerToggle}
-            sx={{ mr: 2, display: { sm: 'none' }, color: colors.primary }}
+            sx={{ mr: 2, display: { sm: 'none' } }}
           >
             <MenuIcon />
           </IconButton>
@@ -71,7 +69,7 @@ const Navbar = () => {
               flexGrow: 1,
               textDecoration: 'none',
               color: colors.primary,
-              fontWeight: 'bold',
+              fontWeight: 500
             }}
           >
             Storia
@@ -86,10 +84,10 @@ const Navbar = () => {
                 sx={{
                   mx: 1,
                   color: colors.primary,
-                  backgroundColor: location.pathname === item.path ? `${colors.secondary}20` : 'transparent',
+                  backgroundColor: location.pathname === item.path ? `${colors.secondary}10` : 'transparent',
                   '&:hover': {
-                    backgroundColor: `${colors.secondary}40`,
-                  },
+                    backgroundColor: `${colors.secondary}20`,
+                  }
                 }}
               >
                 {item.text}
